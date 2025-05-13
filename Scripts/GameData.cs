@@ -416,7 +416,7 @@ namespace GameData
             SetBatter(GameDirector.batterCount, "안주형", TeamName.SAMSUNG, Hand.R, 1993, BatterPosition._2B, 116, 1, 1, 1);
             SetBatter(GameDirector.batterCount, "전병우", TeamName.SAMSUNG, Hand.R, 1992, BatterPosition._3B, 117, 1, 1, 1);
             SetBatter(GameDirector.batterCount, "양도근", TeamName.SAMSUNG, Hand.R, 2003, BatterPosition.SS, 118, 1, 1, 1);
-            SetBatter(GameDirector.batterCount, "김성윤", TeamName.SAMSUNG, Hand.L, 1999, BatterPosition.CF, 119, 1, 1, 1);
+            SetBatter(GameDirector.batterCount, "김성윤", TeamName.SAMSUNG, Hand.L, 1999, BatterPosition.RF, 119, 1, 1, 1);
             SetBatter(GameDirector.batterCount, "공민규", TeamName.SAMSUNG, Hand.L, 1999, BatterPosition.DH, 120, 1, 1, 1);
             SetBatter(GameDirector.batterCount, "김재성", TeamName.SAMSUNG, Hand.L, 1996, BatterPosition.C, 121, 1, 1, 1);
             #endregion
